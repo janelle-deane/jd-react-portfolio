@@ -1,21 +1,25 @@
 import './App.css';
+import React from "react";
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
+import About from './components/Pages/About/About';
+import Contact from './components/Pages/Contact/Contact';
+import Portfolio from './components/Pages/Portfolio/Portfolio';
+import Footer from './components/Footer/Footer';
+import NavBar from './components/NavBar/NavBar';
 
-function App() {
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src="" className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+       <NavBar/>
+       <Switch>
+         <Route exact path="/"component={About}/>
+         <Route exact path="/contact" component={Contact}/>
+         <Route exact path="/portfolio" component={Portfolio}/>
+       </Switch>
+       <Footer/>
+     </Router>
   );
 }
 
-export default App;
+
