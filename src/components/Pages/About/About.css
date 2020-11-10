@@ -1,3 +1,6 @@
+header{
+    padding:25px
+}
 .about-pic{
     float: left;
     width: 30%;
@@ -32,4 +35,10 @@ hr {
     padding: 50px; 
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    /* background: linear-gradient(to top, transparent, lightyellow), url("./../../assets/topomap.jpg");  */
+    background-attachment: fixed;  
 }

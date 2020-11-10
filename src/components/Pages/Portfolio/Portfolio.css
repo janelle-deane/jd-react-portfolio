@@ -1,0 +1,8 @@
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    /* background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg");  */
+    background-attachment: fixed;  
+}
+header{
+    padding:25px
+}

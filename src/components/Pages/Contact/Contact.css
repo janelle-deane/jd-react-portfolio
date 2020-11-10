@@ -1,0 +1,32 @@
+.container{
+    background: whitesmoke; 
+    padding: 50px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+header{
+    padding:25px
+}
+
+.contact-pic{
+    float: left;
+    width: 60%;
+    left: 25px;
+    top: 25px;
+    margin: 10px;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color: thistle;
+    height: 1px;
+  }
+
+  body {
+    font-family: 'Nanum Myeongjo', serif;
+    /* background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg"); 
+    background-attachment: fixed;   */
+}
