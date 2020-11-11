@@ -10,8 +10,8 @@ body {
 .projects{
     background: whitesmoke; 
     padding: 50px; 
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px;
+    /* width: 95vw; */
 }
 header{
     padding:25px

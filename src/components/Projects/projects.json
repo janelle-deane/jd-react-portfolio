@@ -25,11 +25,11 @@
     },
     {
         "id": 4, 
-        "name": "Make My Date" ,
-        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118084/Portfolio%20images/landingPage_i4vovw.png",
-        "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
-        "github": "https://github.com/mfallesen/plannerly", 
-        "deployed": "https://mfallesen.github.io/plannerly/"
+        "name": "Weather Board" ,
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118089/Portfolio%20images/WeatherApp_u0jmjy.png",
+        "description":"This app is a great place to see a current and 5 day weather forecast for any city of your choice!",
+        "github": "https://github.com/janelle-deane/WeatherApp", 
+        "deployed": "https://janelle-deane.github.io/WeatherApp/"
     },
     {
         "id": 5, 
