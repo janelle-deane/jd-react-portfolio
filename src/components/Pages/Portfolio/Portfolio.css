@@ -3,6 +3,16 @@ body {
     /* background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg");  */
     background-attachment: fixed;  
 }
+.card{
+    padding: 30px;
+    margin: 30px;
+}
+.projects{
+    background: whitesmoke; 
+    padding: 50px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 header{
     padding:25px
 }

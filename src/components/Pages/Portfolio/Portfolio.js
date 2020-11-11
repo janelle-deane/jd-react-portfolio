@@ -11,7 +11,8 @@ export default class Portfolio extends Component {
     
     render() {
         return (
-            <div>
+            <div className="projects">
+                
                 {this.state.projects.map(project => (<Project1
                 key={project.id}
                 name={project.name}

@@ -1,20 +1,29 @@
 import './Projects.css';
 import React from 'react'
 
-export default function Project1() {
+export default function Project1(props) {
     return (
-        <div className="projects">
-            <div className="card">
-                <div className="img-container">
+            <div className="card row">
+                <div className="col-md-12 img-container">
+                   <div className="row">
                     <img alt={props.name} src={props.image} />
+                    </div>
                 </div>
-                <div className="content">
-                    <strong>Project Name:</strong> {props.name}
-                    <strong>Description:</strong> {props.description}
-                    <strong>GitHub Link:</strong> {props.github}
-                    <strong>Deployed Link:</strong> {props.deployed}
+                <div className=" col-md-12 content ">
+                    <div className="row">
+                        <strong>Project Name:</strong> {props.name}
+                    </div>
+                    <div className="row">
+                        <strong>Description:</strong> {props.description}
+                    </div>
+                    <div className="row">
+                        <strong>GitHub Link:</strong> {props.github}
+                    </div>
+                    <div className="row">
+                        <strong>Deployed Link:</strong> {props.deployed}
+                    </div>
                 </div>
             </div>
-        </div>
+       
     )
 }

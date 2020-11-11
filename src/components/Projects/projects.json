@@ -9,26 +9,19 @@
     },
     {
         "id": 2, 
+        "name": "Student POD Maker" ,
+        "img": "https://place-puppy.com/300x300",
+        "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
+        "github": "https://github.com/dyoder838/POD", 
+        "deployed": "https://boiling-beach-31279.herokuapp.com/"
+    },
+    {
+        "id": 2, 
         "name": "Make My Date" ,
         "img": "assets/landingPage.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
         "github": "https://github.com/mfallesen/plannerly", 
         "deployed": "https://mfallesen.github.io/plannerly/"
-    },
-    {
-        "id": 3, 
-        "name": "" ,
-        "img": "",
-        "description":"",
-        "github": "", 
-        "deployed": ""
-    },
-    {
-        "id": 4, 
-        "name": "" ,
-        "img": "",
-        "description":"",
-        "github": "", 
-        "deployed": ""
     }
+
 ]
