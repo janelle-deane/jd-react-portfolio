@@ -1,27 +1,52 @@
 [
     {
+        "id": 0, 
+        "name": "Gorge Fitness Tracker" ,
+        "img": "../../assets/screenshot-1.png",
+        "description":"",
+        "github": "https://github.com/janelle-deane/gorge-fitness-tracker", 
+        "deployed": "https://gorge-fitness-tracker.herokuapp.com/"
+    },
+    {
         "id": 1, 
         "name": "Student POD Maker" ,
-        "img": "assets/screenshot-1.png",
+        "img":"../../assets/screenshot-1.png",
         "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
         "github": "https://github.com/dyoder838/POD", 
         "deployed": "https://boiling-beach-31279.herokuapp.com/"
     },
     {
         "id": 2, 
-        "name": "Student POD Maker" ,
-        "img": "https://place-puppy.com/300x300",
+        "name": "Test" ,
+        "img": "../../assets/landingPage.png",
         "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
         "github": "https://github.com/dyoder838/POD", 
         "deployed": "https://boiling-beach-31279.herokuapp.com/"
     },
     {
-        "id": 2, 
+        "id": 3, 
         "name": "Make My Date" ,
-        "img": "assets/landingPage.png",
+        "img": "../../assets/landingPage.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
         "github": "https://github.com/mfallesen/plannerly", 
         "deployed": "https://mfallesen.github.io/plannerly/"
+    },
+    {
+        "id": 4, 
+        "name": "Make My Date" ,
+        "img": "../../assets/landingPage.png",
+        "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
+        "github": "https://github.com/mfallesen/plannerly", 
+        "deployed": "https://mfallesen.github.io/plannerly/"
+    },
+    {
+        "id": 5, 
+        "name": "Word Quiz" ,
+        "img": "../../assets/Word Quiz.PNG",
+        "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you!",
+        "github": "https://janelle-deane.github.io/CodeQuiz", 
+        "deployed": "https://github.com/janelle-deane/CodeQuiz"
     }
+
 
 ]

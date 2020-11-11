@@ -6,7 +6,7 @@ export default function Project1(props) {
             <div className="card row">
                 <div className="col-md-12 img-container">
                    <div className="row">
-                    <img alt={props.name} src={props.image} />
+                    <img alt={props.name} src={require (props.image)} />
                     </div>
                 </div>
                 <div className=" col-md-12 content ">
