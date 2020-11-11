@@ -1,6 +1,6 @@
 body {
     font-family: 'Nanum Myeongjo', serif;
-    /* background: linear-gradient(to top, transparent, lightyellow), url("topomap.jpg");  */
+    background: linear-gradient(to top, transparent, lightyellow), url("https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118088/Portfolio%20images/topomap_zddpcm.jpg"); 
     background-attachment: fixed;  
 }
 .card{

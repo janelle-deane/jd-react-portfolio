@@ -2,7 +2,7 @@
     {
         "id": 0, 
         "name": "Gorge Fitness Tracker" ,
-        "img": "../../assets/screenshot-1.png",
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118661/Portfolio%20images/GorgeFitnessTracker_kual3a.png",
         "description":"",
         "github": "https://github.com/janelle-deane/gorge-fitness-tracker", 
         "deployed": "https://gorge-fitness-tracker.herokuapp.com/"
@@ -10,15 +10,7 @@
     {
         "id": 1, 
         "name": "Student POD Maker" ,
-        "img":"../../assets/screenshot-1.png",
-        "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
-        "github": "https://github.com/dyoder838/POD", 
-        "deployed": "https://boiling-beach-31279.herokuapp.com/"
-    },
-    {
-        "id": 2, 
-        "name": "Test" ,
-        "img": "../../assets/landingPage.png",
+        "image":"https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118662/Portfolio%20images/POD_kuqevt.png",
         "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
         "github": "https://github.com/dyoder838/POD", 
         "deployed": "https://boiling-beach-31279.herokuapp.com/"
@@ -26,7 +18,7 @@
     {
         "id": 3, 
         "name": "Make My Date" ,
-        "img": "../../assets/landingPage.png",
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118084/Portfolio%20images/landingPage_i4vovw.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
         "github": "https://github.com/mfallesen/plannerly", 
         "deployed": "https://mfallesen.github.io/plannerly/"
@@ -34,7 +26,7 @@
     {
         "id": 4, 
         "name": "Make My Date" ,
-        "img": "../../assets/landingPage.png",
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118084/Portfolio%20images/landingPage_i4vovw.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
         "github": "https://github.com/mfallesen/plannerly", 
         "deployed": "https://mfallesen.github.io/plannerly/"
@@ -42,7 +34,7 @@
     {
         "id": 5, 
         "name": "Word Quiz" ,
-        "img": "../../assets/Word Quiz.PNG",
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118090/Portfolio%20images/Word_Quiz_hfq3bb.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you!",
         "github": "https://janelle-deane.github.io/CodeQuiz", 
         "deployed": "https://github.com/janelle-deane/CodeQuiz"

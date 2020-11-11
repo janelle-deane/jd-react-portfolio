@@ -16,7 +16,7 @@ export default class Portfolio extends Component {
                 {this.state.projects.map(project => (<Project1
                 key={project.id}
                 name={project.name}
-                image={project.img}
+                image={project.image}
                 description={project.description}   
                 github={project.github}
                 deployed={project.deployed} 
