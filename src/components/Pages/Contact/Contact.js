@@ -17,8 +17,9 @@ export default function Contact() {
                     <div className="col-md-6">
                     <h3>I would love to hear about your dream or project you would like to bring to reality!</h3>
                         <br />
-                        <h3>You can reach out to me directly at my email:<a href="mailto:janelle.m.deane@gmail.com"> Janelle Deane</a> </h3>
+                        <h3>You can reach out to me directly at my email:<a href="mailto:janelle.m.deane@gmail.com"> janelle.m.deane@gmail.com</a> </h3>
                         <br />
+                        <a href="https://www.linkedin.com/in/janelle-deane-3033b467/" className="fa fa-linkedin" aria-hidden="true" />
                     </div>
                     <div className="col-md-6">
                         <div className="pull-right"><img src={Janelle} alt="Janelle Picture" className="contact-pic" /></div>

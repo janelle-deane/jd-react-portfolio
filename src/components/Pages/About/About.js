@@ -27,7 +27,6 @@ export default function About() {
                         <br/>
                         If you are interested in seeing more about my life and sharing yours, feel free to give me a follow on Instagram and LinkedIn!
                         <br/>
-                        <a href="https://www.instagram.com/janelledeane/?hl=en" className="fab fa-instagram" />
                         <a href="https://www.linkedin.com/in/janelle-deane-3033b467/" className="fa fa-linkedin" aria-hidden="true" />
                         <br/> 
                         Be kind, genuine and don’t forget to laugh and play often!
