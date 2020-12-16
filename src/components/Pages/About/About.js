@@ -25,7 +25,7 @@ export default function About() {
                          My personal hobbies are being active outside, gardening and making art. In previous professions I have been a wedding planner, substitute teacher to a wilderness ranger in the Enchantments. This wide range of work has given me the skills to interact with a wide range people from different backgrounds and encouraged me to approach work tasks with creativity and persistence.
                         <br/>
                         <br/>
-                        If you are interested in seeing more about my life and sharing yours, feel free to give me a follow on Instagram and LinkedIn!
+                        If you are interested in seeing more about my life and sharing yours, feel free to give me a follow on LinkedIn!
                         <br/>
                         <a href="https://www.linkedin.com/in/janelle-deane-3033b467/" className="fa fa-linkedin" aria-hidden="true" />
                         <br/> 
