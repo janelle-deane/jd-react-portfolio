@@ -1,17 +1,28 @@
 [
     {
         "id": 0, 
+        "name": "Plant-It" ,
+        "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1608139204/Portfolio%20images/home-screenshot_st8rnb.png",
+        "description":"Plant-it is a garden planner, discussion forum, and plant information center. The “My Garden” page allows users to freely design their garden, and place their favorited plants directly into the design. The image is saved and displayed in the “Gallery” page alongside other Users’ gardens.",
+        "tech":" Trefle API, React Router, React Spring, Material UI CSS Framework, Material UI Icons, MongoDB and Mongoose, React, Express, Axios, Bcrypt, JSON Web Tokens, CORS, Konva & Lodash.",
+        "github": "https://github.com/janelle-deane/Plantit-frontend", 
+        "deployed": "https://plantit-site.herokuapp.com/"
+    },
+    {
+        "id": 1, 
         "name": "Gorge Fitness Tracker" ,
         "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118661/Portfolio%20images/GorgeFitnessTracker_kual3a.png",
-        "description":"",
+        "description":"I solely created this project as a deployed full stack application allowing the user to track their and other people’s physical outdoor activities.",
+        "tech":"Handlebars, Mongo DB, JavaScript for the backend, and Bulma for the CSS framework.",
         "github": "https://github.com/janelle-deane/gorge-fitness-tracker", 
         "deployed": "https://gorge-fitness-tracker.herokuapp.com/"
     },
     {
-        "id": 1, 
+        "id": 2, 
         "name": "Student POD Maker" ,
         "image":"https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118662/Portfolio%20images/POD_kuqevt.png",
         "description":"In the time of Corona virus, parents are struggling to help their child with school. Our app is designed for teachers to send to their class so that parents can make mini class pod where students can work together while this pandemic.",
+        "tech":"Bcrypt, Express, Express-Handlebars, Express-session, MySQL2, Sequelize",
         "github": "https://github.com/dyoder838/POD", 
         "deployed": "https://boiling-beach-31279.herokuapp.com/"
     },
@@ -20,6 +31,7 @@
         "name": "Make My Date" ,
         "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118084/Portfolio%20images/landingPage_i4vovw.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you! ",
+        "tech":" JavaScript, HTML, CSS, APIs: Open Weather, Tomato and TicketMaster.",
         "github": "https://github.com/mfallesen/plannerly", 
         "deployed": "https://mfallesen.github.io/plannerly/"
     },
@@ -28,6 +40,7 @@
         "name": "Weather Board" ,
         "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118089/Portfolio%20images/WeatherApp_u0jmjy.png",
         "description":"This app is a great place to see a current and 5 day weather forecast for any city of your choice!",
+        "tech":"",
         "github": "https://github.com/janelle-deane/WeatherApp", 
         "deployed": "https://janelle-deane.github.io/WeatherApp/"
     },
@@ -36,6 +49,7 @@
         "name": "Word Quiz" ,
         "image": "https://res.cloudinary.com/dbd23cfw2/image/upload/v1605118090/Portfolio%20images/Word_Quiz_hfq3bb.png",
         "description":"This app eliminates the date planning stress! You give us the city where the date is going to take place and we randomly select a restaurant and an event for you!",
+        "tech":"",
         "github": "https://janelle-deane.github.io/CodeQuiz", 
         "deployed": "https://github.com/janelle-deane/CodeQuiz"
     }

@@ -17,7 +17,8 @@ export default class Portfolio extends Component {
                 key={project.id}
                 name={project.name}
                 image={project.image}
-                description={project.description}   
+                description={project.description}
+                tech={project.tech}     
                 github={project.github}
                 deployed={project.deployed} 
                 />

@@ -12,10 +12,13 @@ export default function Project1(props) {
                 </div>
                 <div className=" col-md-12 content ">
                     <div className="row">
-                        <strong>Project Name: </strong> {props.name}
+                        <strong>Project Name: </strong> {"  "+props.name}
                     </div>
                     <div className="row">
                         <strong>Description: </strong> {props.description}
+                    </div>
+                    <div className="row">
+                        <strong>Technologies: </strong> {props.tech}
                     </div>
                     <div className="row">
                         <strong>GitHub Link: </strong> {props.github}
